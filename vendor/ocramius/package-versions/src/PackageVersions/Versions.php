@@ -144,7 +144,7 @@ final class Versions
   'symfony/stopwatch' => 'v5.0.2@d410282956706e0b08681a5527447a8e6b6f421e',
   'theseer/tokenizer' => '1.1.3@11336f6f84e16a720dae9d8e6ed5019efa85a0f9',
   'webmozart/assert' => '1.6.0@573381c0a64f155a0d9a23f4b0c797194805b925',
-  'hyperf/hyperf-skeleton' => 'v1.1.2@',
+  'hyperf/hyperf-skeleton' => 'dev-master@cfa63fdfd0a176504df4c59c45612a849ca84c3e',
 );
 
     private function __construct()
