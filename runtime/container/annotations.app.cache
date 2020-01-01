@@ -1,2 +1,2 @@
 1957933bce94e7480f2ce2273bc32c7e
-a:5:{i:0;s:36:"App\Listener\DbQueryExecutedListener";i:1;s:33:"App\Controller\AbstractController";i:2;s:30:"App\Controller\IndexController";i:3;s:15:"App\Model\Model";i:4;s:41:"App\Exception\Handler\AppExceptionHandler";}
+a:6:{i:0;s:36:"App\Listener\DbQueryExecutedListener";i:1;s:33:"App\Controller\AbstractController";i:2;s:29:"App\Controller\TestController";i:3;s:30:"App\Controller\IndexController";i:4;s:15:"App\Model\Model";i:5;s:41:"App\Exception\Handler\AppExceptionHandler";}
