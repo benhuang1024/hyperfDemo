@@ -38,3 +38,6 @@ samples/
 
 # PHPUnit
 .phpunit.result.cache
+.php_cs
+runtime/hyperf.pid
+runtime/logs/

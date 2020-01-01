@@ -18,18 +18,18 @@ class TestController extends AbstractController
 {
     public function queryDb()
     {
-        return 'yoyo';
+//        return 'yoyo';
         /*$act_time = microtime(true);
         $sum = 0;
         for ($i = 1; $i < 100000; $i++) {
             $sum = $sum * round(0, 1) + $sum;
         }
         return microtime(true) - $act_time;*/
-        /*
+
         $act_time = microtime(true);
-        for ($i = 1; $i < 100; $i++) {
+        for ($i = 1; $i < 10; $i++) {
             $res = Db::select("SELECT * FROM tmpls LIMIT {$i},1;");
         }
-        return microtime(true) - $act_time;*/
+        return microtime(true) - $act_time;
     }
 }
